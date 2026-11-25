@@ -6,7 +6,7 @@
 💻 Building scalable backend & full-stack applications  
 🧠 Interested in Backend Engineering, Distributed Systems & System Design  
 🏆 ICPC Regionalist 2025 | SIH Qualifier  
-⚡ LeetCode Top 3% | 1200+ DSA Problems
+⚡ LeetCode Top 3.5% | 1500+ DSA Problems
 
 ---
 
