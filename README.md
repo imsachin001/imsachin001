@@ -105,10 +105,10 @@ Scalable task management application designed with backend performance and datab
 ## 🧠 Competitive Programming
 
 - 🏆 **ICPC Regionalist 2025**
-- 💻 **LeetCode Top 3%**
-- ⚡ **1992 LeetCode Rating**
-- 🧩 **1200+ DSA Problems Solved**
-- 🏅 **Smart India Hackathon Qualifier — 2×**
+- 💻 **LeetCode Top 3.5%**
+- ⚡ **1992 LeetCode Rating (Max)**
+- 🧩 **1500+ Problems Solved**
+- 🏅 **Smart India Hackathon Qualifier (Institute level) — 2×**
 
 ### Coding Profiles
 
